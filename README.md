@@ -6,4 +6,4 @@ Original name: homemade shell
 BASICSHELL supports Multi-user, file management
 Although there is a disadvantage: the information cannot be saved
 
-However, this is the procedure that I am most satisfied with
+However, this is my favorite Python work
